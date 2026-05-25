@@ -1,4 +1,6 @@
 <!-- Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Welcome+to+my+GitHub!;Python+Learner;IoT+Developer;Blockchain+Explorer;Building+systems+that+think.;Writing+Code+that+lasts!)](https://git.io/typing-svg)
+
 <div align="center">
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
   A L E X A N D R A
@@ -9,10 +11,7 @@
 Engineer · Researcher · Builder
 </div>
 
- <div align="center" m/ Building systems that think. Writing code that lasts./m /div>
-
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Welcome+to+my+GitHub!;Python+Learner;IoT+Developer;Blockchain+Explorer;Building+systems+that+think.;Writing+Code+that+lasts!)](https://git.io/typing-svg)
-   
+ 
 ### About
 I'm a developer and researcher focused on the intersection of automation, embedded systems, and decentralized technologies. My work leans toward practical innovation — ideas that solve real problems and scale.
 I move with intent. Every project is a step toward mastery and visibility in a field I intend to shape.
@@ -52,5 +51,10 @@ Open to collaboration · Research · Technical discourse
 </div>
 
 ## 📫 Reach Me
-Email: alexandraquirante15@gmail.com                <img width="1024" height="896 alt="cutesy" src="https://github.com/user-attachments/assets/fb47c98a-0fd5-4ab5-ab77-201953d3cf84" />
+Email: alexandraquirante15@gmail.com               <div align="right">
+  <img
+    src="https://github.com/user-attachments/assets/e6b555c2-9773-4660-b429-9a11dd2dc58c"
+    width="1024"
+    alt="pretty">
+</div>
 
