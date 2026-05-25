@@ -1,39 +1,46 @@
-# 👋 Hello, I'm Alexandra
+<!-- Header -->
+<div align="center">
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+  A L E X A N D R A
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+Engineer · Researcher · Builder
+Building systems that think. Writing code that lasts.
+</div>
 
-### Turning ideas into code and prototypes
+About
+I'm a developer and researcher focused on the intersection of automation, embedded systems, and decentralized technologies. My work leans toward practical innovation — ideas that solve real problems and scale.
+I move with intent. Every project is a step toward mastery and visibility in a field I intend to shape.
 
-💡 Passionate about technology, automation, and problem-solving  
-🌱 Exploring Python, Blockchain, IoT, and Smart Systems  
-🔬 Working on research and innovation for practical applications  
-⚙️ Interested in embedded systems and digital solutions
+Stack
+DomainToolsLanguagesPython · HTML · CSSHardwareArduino · IoT PlatformsFoundationsBlockchain · Git · LinuxExploringSmart Contracts · Cybersecurity · Edge Computing
 
----
+Featured Work
+Smart Dual-Panel Aluminet Shading System
 
-## 🛠 Tech Toolbox
-🐍 Python  
-📡 IoT & Arduino  
-🌐 HTML / CSS  
-🔗 Git & GitHub  
-⛓️ Blockchain Fundamentals
+Automated shading solution using sensor-driven logic and embedded control. Built for precision, designed for scale.
 
----
+IoT Research Projects
 
-## 🚀 Featured Projects
-- Smart Dual-Panel Aluminet Shading System
-- IoT-based Research Projects
-- Python Learning and Blockchain Experiments
+Applied research at the intersection of physical systems and connected intelligence.
 
----
-## 🎯 Learning Journey
-Currently exploring:
-- Blockchain development
-- Cybersecurity basics
-- Advanced Python
-- Smart automation systems
+Blockchain Experiments
 
----
+Hands-on exploration of decentralized protocols — from fundamentals to applied concepts.
 
-## 📫 Reach Me
-Email: alexandraquirante15@example.com
 
-![](https://komarev.com/ghpvc/?username=alex-gregz15-code&color=blue)
+Currently
+
+Deep-diving blockchain development and smart contract architecture
+Strengthening foundations in cybersecurity and system hardening
+Advancing Python for automation and data-driven applications
+Designing the next iteration of smart automation systems
+
+
+Philosophy
+
+"Precision over noise. Depth over breadth. Presence over performance."
+
+
+<div align="center">
+Open to collaboration · Research · Technical discourse
+</div>
