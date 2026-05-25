@@ -9,7 +9,7 @@
 Engineer · Researcher · Builder
 </div>
 
-Building systems that think. Writing code that lasts.
+### <div m/ Building systems that think. Writing code that lasts./m /div>
 
 ### About
 I'm a developer and researcher focused on the intersection of automation, embedded systems, and decentralized technologies. My work leans toward practical innovation — ideas that solve real problems and scale.
