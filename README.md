@@ -1,11 +1,15 @@
 <!-- Header -->
 <div align="center">
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
   A L E X A N D R A
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-Engineer · Researcher · Builder
-Building systems that think. Writing code that lasts.
 </div>
+
+<div align="center">
+Engineer · Researcher · Builder
+</div>
+
+Building systems that think. Writing code that lasts.
 
 ### About
 I'm a developer and researcher focused on the intersection of automation, embedded systems, and decentralized technologies. My work leans toward practical innovation — ideas that solve real problems and scale.
