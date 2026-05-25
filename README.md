@@ -54,7 +54,7 @@ Open to collaboration · Research · Technical discourse
 Email: alexandraquirante15@gmail.com               <div align="right">
   <img
     src="https://github.com/user-attachments/assets/e6b555c2-9773-4660-b429-9a11dd2dc58c"
-    width="1024"
+    width="512"
     alt="pretty">
 </div>
 
