@@ -1,5 +1,5 @@
 <!-- Header -->
-      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Welcome+to+my+GitHub!;Python+Learner;IoT+Developer;Blockchain+Explorer;Building+systems+that+think.;Writing+Code+that+lasts!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Welcome+to+my+GitHub!;Python+Learner;IoT+Developer;Blockchain+Explorer;Building+systems+that+think.;Writing+Code+that+lasts!)](https://git.io/typing-svg)
 
 <div align="center">
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
@@ -51,12 +51,12 @@ Open to collaboration · Research · Technical discourse
 </div>
 
 ## 📫 Reach Me
-Email: alexandraquirante15@gmail.com              <div align="left"> <img src="https://github.com/user-attachments/assets/1f568f83-5aaa-4b98-b978-20c7ecc2c90a" width="64"/> </div>
+Email: alexandraquirante15@gmail.com              <div align="left"> <img src="https://github.com/user-attachments/assets/1f568f83-5aaa-4b98-b978-20c7ecc2c90a" width="256"/> </div>
 
 <div align="right">
   <img
     src="https://github.com/user-attachments/assets/e6b555c2-9773-4660-b429-9a11dd2dc58c"
-    width="64"
+    width="128"
     alt="pretty">
 </div>
 
